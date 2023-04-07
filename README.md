@@ -51,20 +51,23 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Julia-maria56}/count.svg" /></p> 
+<br></div>
+  
+  
  
- 
-  
-  
-  
-  
-  
-  
-  
-  
   
   
   
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Julia-maria56&theme=gotham)
+ 
+ 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
+
 
 
 
