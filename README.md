@@ -23,8 +23,10 @@
 <div align="center">  
  <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Julia-maria56&show_icons=true&count_private=true&hide_border=true&theme=dracula" alt="Júlia Maria's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-maria56&layout=compact&hide_border=true&theme=dracula" /> 
-</div>
+<img width="49%" align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-maria56&layout=compact&hide_border=true&border_radius=20&border_color=00bfbf&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36&langs_count=8" />
+
+
+
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------
   
