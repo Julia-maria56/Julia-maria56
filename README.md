@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
 
+![OIP](https://user-images.githubusercontent.com/125198189/230738611-570479cd-b527-4b67-9dda-2ad201b5e33e.jpg)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About me </b>
@@ -10,7 +11,6 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Júlia+Maria;I'm+15+years+old;I'm+from+Brazil;I+am+studying+at+IFCE;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
