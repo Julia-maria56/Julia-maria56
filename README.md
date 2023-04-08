@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
 
-![OIP](https://user-images.githubusercontent.com/125198189/230738611-570479cd-b527-4b67-9dda-2ad201b5e33e.jpg)
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About me </b>
 
