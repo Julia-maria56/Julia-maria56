@@ -64,6 +64,8 @@
   
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Julia-maria56&theme=gotham)
  
+![Snake animation](https://github.com/Julia-maria56/Julia-maria56/blob/output/github-contribution-grid-snake.svg)
+
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
 
