@@ -5,7 +5,7 @@
  <li>🎓 Graduanda em Sistemas e mídias digitais, na UFC</li>
  <li>💻 Técnica em Informártica, pelo IFCE</li>
  <li>👩🏽‍💻 Apaixonada por construir sites usando html, css e javascript</li>
- <li>🖼️ Adoro filmes, séries e principlamente livros</li>
+ <li>🖼️ Adoro estudar novas línguas</li>
 </ul>
 
 
