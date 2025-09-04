@@ -1,4 +1,6 @@
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Leia em outros idiomas </b>
+<kbd>[<img title="Inglês" alt="Inglês" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/us.svg" width="22">](translations/READMEen.md)</kbd>
+<kbd>[<img title="Española" alt="Española" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Sobre mim </b>
 <ul>
@@ -77,10 +79,22 @@ Durante o curso técnico em Informática pelo IFCE, cursei diversas disciplinas 
 
 Todas essas disciplinas fortaleceram conceitos de como trabalhar em equipe, paciência, gestão de tempo e de organização 
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Fale comigo </b>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/julia_maria0764)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julia.maria07@alu.ufc.br)
+
 
  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Status </b>
 
-<p>
+<div 
+ style="
+ width:100%;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ "
+ >
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -90,27 +104,25 @@ Todas essas disciplinas fortaleceram conceitos de como trabalhar em equipe, paci
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-maria56&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
-<br>
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Fale comigo </b>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/julia_maria0764)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julia.maria07@alu.ufc.br)
-  
+</div>
 
 
  
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
+ 
 
+
+
+
+ 
+
+  
+ 
+ 
 
 
 
