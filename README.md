@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Leia em outros idiomas </b>
-<kbd>[<img title="Inglês" alt="Inglês" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/us.svg" width="22">](translations/README.en.md)</kbd>
-<kbd>[<img title="Española" alt="Española" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
+<kbd>[<img title="Inglês" alt="Inglês" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/us.svg" width="22">](translations/README.en.md.m)</kbd>
+<kbd>[<img title="Española" alt="Española" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/es.svg" width="22">](translations/README.es.md.m)</kbd>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Sobre mim </b>
 <ul>
